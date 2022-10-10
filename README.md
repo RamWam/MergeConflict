@@ -1,2 +1,2 @@
-# MergeConflict Conflict 1
+Conflict 2
 Test für Merge Konflikt
